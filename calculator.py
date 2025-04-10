@@ -1,5 +1,5 @@
 def checkNum():
-    
+    print("Enter valid number")
 
 def addition():
     digit_1 = int(input("Enter first digit: "))
